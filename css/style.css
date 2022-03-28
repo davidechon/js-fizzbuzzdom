@@ -4,3 +4,47 @@
   box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
 }
+.numPrimo {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 130px;
+  font-size: 20px;
+  color: black;
+  background-color: #1f8ab0;
+  box-shadow: 2px 1px 15px #aaaaaa;
+}
+.fizz{
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 130px;
+  font-size: 20px;
+  color: black;
+  background-color: #26d5a2;
+  box-shadow: 2px 1px 15px #aaaaaa;
+}
+.buzz{
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 130px;
+  font-size: 20px;
+  color: black;
+  background-color: #fed06e;
+  box-shadow: 2px 1px 15px #aaaaaa;
+}
+.fizzbuzz{
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 130px;
+  font-size: 20px;
+  color: black;
+  background-color: #ed4971;
+  box-shadow: 2px 1px 15px #aaaaaa;
+}
