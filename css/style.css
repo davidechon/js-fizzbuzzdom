@@ -11,7 +11,8 @@
   text-align: center;
   line-height: 130px;
   font-size: 20px;
-  color: black;
+  font-weight: 900;
+  color: #FF4725;
   background-color: #1f8ab0;
   box-shadow: 2px 1px 15px #aaaaaa;
 }
@@ -22,7 +23,8 @@
   text-align: center;
   line-height: 130px;
   font-size: 20px;
-  color: black;
+  font-weight: 900;
+  color: #FFAC2D;
   background-color: #26d5a2;
   box-shadow: 2px 1px 15px #aaaaaa;
 }
@@ -33,7 +35,8 @@
   text-align: center;
   line-height: 130px;
   font-size: 20px;
-  color: black;
+  font-weight: 900;
+  color: #44949B;
   background-color: #fed06e;
   box-shadow: 2px 1px 15px #aaaaaa;
 }
@@ -44,7 +47,8 @@
   text-align: center;
   line-height: 130px;
   font-size: 20px;
-  color: black;
+  font-weight: 900;
+  color: #D4F74C;
   background-color: #ed4971;
   box-shadow: 2px 1px 15px #aaaaaa;
 }

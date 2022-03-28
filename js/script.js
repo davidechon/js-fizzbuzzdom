@@ -35,7 +35,7 @@
 
 const app = document.getElementById('app');
 const row = document.createElement('div');
-row.setAttribute('class', "row g-3");
+row.setAttribute('class', "row g-2");
 app.append(row);
 
 let numMax = 100;
